@@ -1,0 +1,164 @@
+
+
+*{
+    margin:0px;
+    padding:0px;
+    text-decoration: none;
+    list-style-type: none;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+}
+.cs1{
+    display: flex;
+    justify-content: space-between;
+    background-color:purple;
+    font-size:20px;
+}
+.cs1 ul{
+    display: flex;
+    
+}
+.cs1 ul li{
+    margin:0 80px;
+    padding:20px;
+}
+.cs1 ul li a{
+    color:orange;
+    font-weight: bold;
+}
+.cs1 ul li a:hover{
+    color: green;
+    transform:  rotate(50deg);
+    cursor: pointer; 
+}
+body{
+    background-image: url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/v975-background-07-b-kqkr4ukm.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=d92b38f7af4f92cbb48fb96c37560242");
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+ 
+#home{
+    position: relative;
+    width:100%;
+    height:100vh;
+    background-position: center;
+}
+#home .content{
+    width:100%;
+}
+#home .content h2{
+    font-size: 50px;
+    margin:0 160px;
+    color:red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+#home .content p{
+    width:50%;
+    margin:auto;
+    color:brown;
+    font-size:20px;
+    font-style: italic;
+    
+}
+#Education{
+    position: relative;
+    width:100%;
+    height:100vh;
+    background-position: center;
+}
+#Education .content{
+    width:100%;
+}
+#Education .content h2{
+    font-size: 50px;
+    margin:0 160px;
+    color:red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+#Education .content p{
+    width:50%;
+    margin:auto;
+    color:brown;
+    font-size:20px;
+    font-style: italic;
+    
+}
+
+#Projects{
+    position: relative;
+    width:100%;
+    height:100vh;
+    background-position: center;
+}
+#Projects .content{
+    width:100%;
+}
+#Projects .content h2{
+    font-size: 50px;
+    margin:0 160px;
+    color:red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+#Projects .content p{
+    width:50%;
+    margin:auto;
+    color:brown;
+    font-size:20px;
+    font-style: italic;
+    
+}
+#Skills{
+    position: relative;
+    width:100%;
+    height:100vh;
+    background-position: center;
+}
+#Skills .content{
+    width:100%;
+}
+#Skills .content h2{
+    font-size: 50px;
+    margin:0 160px;
+    color:red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+#Skills .content p{
+    width:50%;
+    margin:auto;
+    color:brown;
+    font-size:20px;
+    font-style: italic;
+    
+}
+#contact{
+    position: relative;
+    width:100%;
+    height:100vh;
+    background-position: center;
+}
+#contact .content{
+    width:100%;
+}
+#contact .content h2{
+    font-size: 50px;
+    margin:0 160px;
+    color:red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+#contact .content pre{
+    width:50%;
+    margin:auto;
+    color:brown;
+    font-size:20px;
+    font-style: italic;
+    
+}
